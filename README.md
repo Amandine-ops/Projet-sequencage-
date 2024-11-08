@@ -20,4 +20,15 @@ Conclusions
 Genes of the carbohydrate metabolism and nucleotide biosynthesis are use by the bacteria to develop in the serum. 
 This gene identification allows them to target them for the development of novel anti-infectives against Enterococcus faecium.
 
+## Programs used for the study 
+- SPAdes : (version 3.0)
+- BWA :(BWA-MEM algorithm ) 
+- Celera Assembler: 
+- SAMtools : identify bas-calling/assembly errors
+- Prokka : sequences corrected 
+- ParSNP with settings-c (forcing inclusion of all genome sequences) and-x (enabling recombination detection and filtering)
+- MEGA: visualisation of phylogenetic tree 
+- FastAQ
+- Integrative Genomics Viewer (IGV) 
+
 
